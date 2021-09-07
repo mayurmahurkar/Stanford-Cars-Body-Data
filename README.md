@@ -1,5 +1,9 @@
 # Stanford-Cars-Body-Data
 
+Download Links:
+
+- From kaggle: https://www.kaggle.com/mayurmahurkar/stanford-car-body-type-data
+
 The data consist of images of cars categorised according to their body type. 
 
 I've created this data from the "train" subset of the actual data provided in Standford's Cars Dataset (http://ai.stanford.edu/~jkrause/cars/car_dataset.html). For this, I've used "class" info as given for each car image but only for "train" data. The "class" in actual data is car name, from which I've extracted body types such as hatchback, sedan, SUV etc. and made them as classes in this dataset.
