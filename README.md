@@ -10,5 +10,5 @@ This data can be used for building:
 - Car Body Type Classifier
 - Car Brand Classifier (You have to recreate the data for "Car Brand Classifier" accordingly.
 
-NOTE:
+## NOTE:
 The "Other" subfolder in the dataset consists of images of "SuperCab" which can be either used as an additional class or can be merged in the existing "Cab" class.
